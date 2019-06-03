@@ -152,7 +152,7 @@ footer p {
 	margin-top: 7%;
 }    
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
    
     nav {
         
@@ -191,7 +191,14 @@ footer p {
     }  
 
 
-  }  
+  }    
+
+  @media (max-width: 800px)
+  {    
+
+
+   
+  }
 
   
 
